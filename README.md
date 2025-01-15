@@ -28,3 +28,6 @@
 
 ## Презентация
 презентация доступна по [ссылке](https://docs.google.com/presentation/d/11NlBaZu3zWZSNVzX2rO8YdvmFKAeEMsNOYCaoKx3A6s/edit?usp=sharing)
+
+## Скрипт для автоматической загрузки, предобработки и хранения данных в БД
+autodatadb.py
